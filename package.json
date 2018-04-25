@@ -1,0 +1,11 @@
+{
+  "name": "tilicon",
+  "version": "1.0.0",
+  "title": "Tilicon",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
